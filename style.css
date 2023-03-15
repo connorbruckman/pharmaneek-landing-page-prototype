@@ -258,9 +258,10 @@ video {
 }
 
 #what-we-do {
-    background: rgb(187, 186, 255);
-    background: linear-gradient(23deg, rgba(187, 186, 255, 1) 0%, rgba(218, 255, 193, 1) 100%);
-    color:
+    /* background: rgb(187, 186, 255);
+    background: linear-gradient(23deg, rgba(187, 186, 255, 1) 0%, rgba(218, 255, 193, 1) 100%); */
+    background: rgb(50, 77, 181);
+    background: linear-gradient(23deg, rgba(50, 77, 181, 1) 0%, rgba(116, 190, 57, 1) 100%);
 }
 
 #pricing {
@@ -272,8 +273,10 @@ video {
 /* FAQs section */
 
 #FAQs {
-    background: rgb(187, 186, 255);
-    background: linear-gradient(23deg, rgba(218, 255, 193, 1) 0%, rgba(187, 186, 255, 1) 100%);
+    /* background: rgb(187, 186, 255);
+    background: linear-gradient(23deg, rgb(218, 255, 193) 0%, rgba(187, 186, 255, 1) 100%); */
+    background: rgb(50, 77, 181)rgb(116, 190, 57);
+    background: linear-gradient(23deg, rgba(116, 190, 57, 1) 0%, rgba(50, 77, 181, 1) 100%);
     padding: 5vh 3vw;
 }
 
@@ -320,7 +323,6 @@ video {
     font-weight: bold;
     font-size: 1.25rem;
     text-transform: uppercase;
-    margin: auto;
 }
 
 .meet-the-team-work {
